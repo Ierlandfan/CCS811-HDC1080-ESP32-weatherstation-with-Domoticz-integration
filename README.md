@@ -4,7 +4,7 @@ Can be used without display as well.
 Based on this nice Weatherstation made by Vortecks
 https://www.youtube.com/watch?v=i9sn_d-Q3Ww .
 I just added the Domoticz integration. 
-Can easily be adapter for MQQT integration or other Domotica solution.
+Can easily be adapter for MQTT integration or other Domotica solution.
 
 
 Parts list:
